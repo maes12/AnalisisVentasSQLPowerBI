@@ -1,6 +1,22 @@
 # AnalisisVentasSQLPowerBI
 Analisis de Ventas/Proceso ETL- SQL-PowerBi
 
+
+🚀 Análisis Integral de Ventas y Clientes con Power BI 📊
+
+Hoy quiero compartir un tablero interactivo que desarrollé en Power BI para proporcionar una visión completa del rendimiento de ventas y análisis de clientes y productos.
+
+Este panel incluye tres hojas clave:
+
+### Resumen de ventas:
+Proporciona una visión global de los resultados, utilizando gráficos dinámicos para visualizar tendencias, comparaciones y el rendimiento de las ventas en distintos períodos.
+
+### Detalle de clientes:
+Analiza el comportamiento y las características de los clientes, destacando a los 10 mejores y proporcionando una segmentación clara mediante gráficos interactivos.
+
+### Detalle de productos: 
+Ofrece un análisis profundo del rendimiento de los productos, destacando los más vendidos y su evolución a lo largo del tiempo.
+
 ## Arreglo
 
 Este proyecto requiere SQL Server (SQL Express), Power BI Desktop
